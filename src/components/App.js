@@ -41,3 +41,5 @@ const OptimizeTheOperation = ({ onClick }) => {
     </div>
   );
 };
+
+export default App;
